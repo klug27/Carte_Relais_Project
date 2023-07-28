@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stm32f1_types.h": "c",
+        "stm32f1_hw_def.h": "c"
+    }
+}
